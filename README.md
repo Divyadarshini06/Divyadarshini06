@@ -1,10 +1,6 @@
-\#
 
-::: {align="center"}
 Hi 👋 I'm Divya Darshini V
-:::
 
-::: {align="center"}
 ### Future Java Full Stack Developer • AI Enthusiast • Computer Science Student
 
 ![Profile
