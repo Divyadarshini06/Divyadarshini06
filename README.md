@@ -125,17 +125,6 @@ A sustainability-focused project that promotes environmentally friendly construc
 ---
 ------------------------------------------------------------------------
 
-## 📊 GitHub Analytics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Divyadarshini06&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=Divyadarshini06&theme=tokyonight)
-
-![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyadarshini06&layout=compact&theme=tokyonight)
-
-------------------------------------------------------------------------
-
 
 ## 📫 Connect
 
