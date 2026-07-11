@@ -3,8 +3,6 @@ Hi 👋 I'm Divya Darshini V
 
 ### Future Java Full Stack Developer • AI Enthusiast • Computer Science Student
 
-![Profile
-Views](https://komarev.com/ghpvc/?username=Divyadarshini06&style=for-the-badge&color=7F3FBF)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/divya-darshini-3846b9309/)
 [![GitHub](https://img.shields.io/badge/GitHub-Divyadarshini06-black?style=for-the-badge&logo=github)](https://github.com/Divyadarshini06)
 :::
